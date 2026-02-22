@@ -2,3 +2,8 @@
 **/pom.xml.versionsBackup
 **/target/
 !src/**/target/
+/Core/dependency-reduced-pom.xml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
